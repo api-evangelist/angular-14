@@ -1,0 +1,146 @@
+name: Angular 14 APIs
+description: A collection of APIs and resources for Angular 14 framework
+image: https://angular.io/assets/images/logos/angular/angular.png
+created: '2022-06-02'
+modified: '2023-12-01'
+url: https://angular.io/api
+specificationVersion: '0.16'
+apis:
+- name: Angular Core API
+  description: Core Angular framework APIs including components, directives, dependency injection, and change detection
+  image: https://angular.io/assets/images/logos/angular/angular.png
+  humanUrl: https://angular.io/api/core
+  baseUrl: https://angular.io/api/core
+  tags:
+  - Framework
+  - Components
+  - Dependency Injection
+  - Decorators
+  properties:
+  - type: Documentation
+    url: https://angular.io/api/core
+  - type: API Reference
+    url: https://angular.io/api/core/API_REFERENCE
+  contact:
+  - FN: Angular Team
+    email: angular-core@googlegroups.com
+    url: https://github.com/angular/angular
+- name: Angular Common API
+  description: Common Angular directives and pipes including NgIf, NgFor, DatePipe, etc.
+  humanUrl: https://angular.io/api/common
+  baseUrl: https://angular.io/api/common
+  tags:
+  - Directives
+  - Pipes
+  - Utilities
+  properties:
+  - type: Documentation
+    url: https://angular.io/api/common
+  - type: API Reference
+    url: https://angular.io/api/common/API_REFERENCE
+- name: Angular Router API
+  description: Angular routing and navigation APIs
+  humanUrl: https://angular.io/api/router
+  baseUrl: https://angular.io/api/router
+  tags:
+  - Routing
+  - Navigation
+  - Guards
+  properties:
+  - type: Documentation
+    url: https://angular.io/api/router
+  - type: Guide
+    url: https://angular.io/guide/router
+- name: Angular Forms API
+  description: Angular forms APIs for template-driven and reactive forms
+  humanUrl: https://angular.io/api/forms
+  baseUrl: https://angular.io/api/forms
+  tags:
+  - Forms
+  - Validation
+  - Reactive Forms
+  properties:
+  - type: Documentation
+    url: https://angular.io/api/forms
+  - type: Guide
+    url: https://angular.io/guide/forms-overview
+- name: Angular HTTP Client API
+  description: Angular HTTP client for making HTTP requests
+  humanUrl: https://angular.io/api/common/http
+  baseUrl: https://angular.io/api/common/http
+  tags:
+  - HTTP
+  - REST
+  - Interceptors
+  properties:
+  - type: Documentation
+    url: https://angular.io/api/common/http
+  - type: Guide
+    url: https://angular.io/guide/http
+- name: Angular Animations API
+  description: Angular animations system for creating animations
+  humanUrl: https://angular.io/api/animations
+  baseUrl: https://angular.io/api/animations
+  tags:
+  - Animations
+  - Transitions
+  - Keyframes
+  properties:
+  - type: Documentation
+    url: https://angular.io/api/animations
+  - type: Guide
+    url: https://angular.io/guide/animations
+- name: Angular Platform Browser API
+  description: Browser-specific implementations for Angular applications
+  humanUrl: https://angular.io/api/platform-browser
+  baseUrl: https://angular.io/api/platform-browser
+  tags:
+  - Browser
+  - DOM
+  - Platform
+  properties:
+  - type: Documentation
+    url: https://angular.io/api/platform-browser
+- name: Angular Service Worker API
+  description: Service worker support for Angular PWAs
+  humanUrl: https://angular.io/api/service-worker
+  baseUrl: https://angular.io/api/service-worker
+  tags:
+  - PWA
+  - Service Worker
+  - Offline
+  properties:
+  - type: Documentation
+    url: https://angular.io/api/service-worker
+  - type: Guide
+    url: https://angular.io/guide/service-worker-intro
+- name: Angular CDK API
+  description: Component Dev Kit - behavior primitives for building UI components
+  humanUrl: https://material.angular.io/cdk/categories
+  baseUrl: https://material.angular.io/cdk
+  tags:
+  - CDK
+  - Components
+  - Accessibility
+  properties:
+  - type: Documentation
+    url: https://material.angular.io/cdk/categories
+  - type: GitHub
+    url: https://github.com/angular/components
+include:
+- name: Angular CLI
+  url: https://angular.io/cli
+- name: Angular Material
+  url: https://material.angular.io
+- name: Angular Universal
+  url: https://angular.io/guide/universal
+maintainers:
+- FN: Angular Team
+  email: angular@google.com
+  url: https://angular.io
+tags:
+- JavaScript
+- TypeScript
+- Framework
+- SPA
+- Web Development
