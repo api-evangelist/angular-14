@@ -15,10 +15,10 @@ apis:
     humanUrl: https://angular.io/api/core
     baseUrl: https://angular.io/api/core
     tags:
-      - Framework
       - Components
-      - Dependency Injection
       - Decorators
+      - Dependency Injection
+      - Framework
     properties:
       - type: Documentation
         url: https://angular.io/api/core
@@ -29,8 +29,7 @@ apis:
         email: angular-core@googlegroups.com
         url: https://github.com/angular/angular
   - name: Angular Common API
-    description: Common Angular directives and pipes including NgIf, NgFor, 
-      DatePipe, etc.
+    description: Common Angular directives and pipes including NgIf, NgFor, DatePipe, etc.
     humanUrl: https://angular.io/api/common
     baseUrl: https://angular.io/api/common
     tags:
@@ -48,9 +47,9 @@ apis:
     humanUrl: https://angular.io/api/router
     baseUrl: https://angular.io/api/router
     tags:
-      - Routing
-      - Navigation
       - Guards
+      - Navigation
+      - Routing
     properties:
       - type: Documentation
         url: https://angular.io/api/router
@@ -63,8 +62,8 @@ apis:
     baseUrl: https://angular.io/api/forms
     tags:
       - Forms
-      - Validation
       - Reactive Forms
+      - Validation
     properties:
       - type: Documentation
         url: https://angular.io/api/forms
@@ -77,8 +76,8 @@ apis:
     baseUrl: https://angular.io/api/common/http
     tags:
       - HTTP
-      - REST
       - Interceptors
+      - REST
     properties:
       - type: Documentation
         url: https://angular.io/api/common/http
@@ -91,8 +90,8 @@ apis:
     baseUrl: https://angular.io/api/animations
     tags:
       - Animations
-      - Transitions
       - Keyframes
+      - Transitions
     properties:
       - type: Documentation
         url: https://angular.io/api/animations
@@ -116,9 +115,9 @@ apis:
     humanUrl: https://angular.io/api/service-worker
     baseUrl: https://angular.io/api/service-worker
     tags:
+      - Offline
       - PWA
       - Service Worker
-      - Offline
     properties:
       - type: Documentation
         url: https://angular.io/api/service-worker
@@ -130,9 +129,9 @@ apis:
     humanUrl: https://material.angular.io/cdk/categories
     baseUrl: https://material.angular.io/cdk
     tags:
+      - Accessibility
       - CDK
       - Components
-      - Accessibility
     properties:
       - type: Documentation
         url: https://material.angular.io/cdk/categories
@@ -150,8 +149,8 @@ maintainers:
     email: angular@google.com
     url: https://angular.io
 tags:
-  - JavaScript
-  - TypeScript
   - Framework
+  - JavaScript
   - SPA
+  - TypeScript
   - Web Development
