@@ -10,12 +10,9 @@
     },
     {
       "source": "https://blog.angular.dev/angular-v14-is-now-available-391a6db736af",
-      "feed_url": "https://blog.angular.dev/angular-v14-is-now-available-391a6db736af",
-      "title": "",
-      "saved": 0,
-      "method": "none"
+      "error": "HTTPError"
     }
   ],
-  "post_count": 21,
-  "fetched": "2026-08-06T14:08:46Z"
+  "post_count": 22,
+  "fetched": "2026-08-15T12:22:01Z"
 }
