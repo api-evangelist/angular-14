@@ -213,7 +213,7 @@ common:
     type: X
 created: '2022-06-02'
 modified: '2026-04-19'
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 description: >-
   Angular 14 is a major release of the Angular TypeScript framework from Google,
   released June 2, 2022. Key features include strictly typed reactive forms,
